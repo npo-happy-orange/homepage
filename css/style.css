@@ -475,16 +475,16 @@ ul.top_icon li:last-child {
 }
 
 ul.top_icon li a {
-     color: #fff;
+     color: #000;
 }
 
 .menu-area-main li:hover a,
 .menu-area-main li:focus a {
-     color: #ffff;
+     color: #000;
 }
 
 .menu-area-main li.active a {
-     color: #fff;
+     color: #000;
 }
 
 .right_cart_section {
@@ -1066,7 +1066,7 @@ ul.top_icon li a {
      font-size: 16px;
      display: block;
      font-weight: 500;
-     color: #fff;
+     color: #000;
      padding: 19px 17px;
 }
 
@@ -2047,11 +2047,12 @@ transform: skew(190deg);
 
 .contact {
     margin-top: 90px;
-    background-color: #ffffd1;
+    background-color: #fff;
+    padding: 90px 0;
 }
 .contact div{
      font-size: 20px;
-     line-height: 48px;
+     /* line-height: 48px; */
 }
 .contact .container{
      margin-bottom: 24px;
@@ -2219,7 +2220,7 @@ border-radius: 10px;
      color: #30880d;
 }
 .copyright {
-     background: #30880d;
+     background: #ffffd1;
      padding: 20px 0px 20px 0;
 }
 .copyright p {

@@ -39,6 +39,9 @@
     .menu-area-main .megamenu .el-cat {
         padding: 0px 15px;
     }
+    .mean-container{
+        width: 90vw;
+    }
     .mean-container .mean-nav ul li a.mean-expand {
         height: 19px;
     }
@@ -118,6 +121,9 @@
         width: auto;
         border: none;
         float: none;
+    }
+    .mean-container{
+        width: 90vw;
     }
     .menu-area-main {
         height: 290px;
