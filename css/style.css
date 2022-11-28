@@ -1762,7 +1762,7 @@ color: #000;
     font-weight: 208;
 }
 
-.title {text-align: center; padding-bottom: 60px;}
+.title {text-align: center; padding-bottom: 30px;}
 
 .title h2 {
     padding: 0px 0px 6px 0px;
@@ -1919,7 +1919,7 @@ margin-top: -100px;
 
 
 .margin_ttt {margin-top: 100px;}
-.margin-lkk {margin-top: 200px;}
+.margin-lkk {margin-top: 100px;}
 /** end offer **/
 
 
